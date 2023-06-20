@@ -1,0 +1,1 @@
+# StyleLogo---A-synthetic-way-to-logo-generation-using-GAN
